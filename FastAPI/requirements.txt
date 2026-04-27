@@ -1,0 +1,15 @@
+fastapi
+fastapi-users[sqlalchemy] #For handling authentication
+uvicorn[standard]
+sqlalchemy
+greenlet
+
+imagekitio
+aiosqlite
+
+python-dotenv
+pydantic
+
+passlib
+python-jose
+bcrypt==3.2.2
