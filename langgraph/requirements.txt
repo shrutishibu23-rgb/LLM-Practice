@@ -1,0 +1,11 @@
+ipykernel
+
+langgraph
+notebook
+python-dotenv
+
+langchain
+langchain-google-genai
+pydantic
+
+yfinance
